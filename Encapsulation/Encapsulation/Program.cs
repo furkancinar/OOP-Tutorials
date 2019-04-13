@@ -10,8 +10,18 @@ namespace Encapsulation
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Student student1 = new Student();
+            Student student2 = new Student("Furkan", "32562272212");
+            Student student3 = new Student();
+            student3.Name = "Furkan";
+
+
+            Console.WriteLine(student1.Name);
+            Console.WriteLine(student2.Name + " - " + student2.TC);
+            Console.WriteLine(student3.Name);
+
             Console.ReadKey();
+
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Furkan\Desktop\OOP\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
