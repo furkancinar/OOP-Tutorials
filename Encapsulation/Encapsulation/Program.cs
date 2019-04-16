@@ -11,7 +11,7 @@ namespace Encapsulation
         static void Main(string[] args)
         {
             Student student1 = new Student();
-            Student student2 = new Student("Furkan", "32562272212");
+            Student student2 = new Student("Furkan", "32564762212");
             Student student3 = new Student();
             student3.Name = "Furkan";
 

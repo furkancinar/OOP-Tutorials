@@ -33,21 +33,22 @@ namespace Encapsulation
             get { return tc; }
             set
             {
-                if (tc != null || tc != "")
+                if (value.Length > 10 && value.Length < 12)
                     tc = value;
                 else
-                    Console.WriteLine("Girdiğiniz TC numarasını kontrol ediniz!!");
+                    tc = "Girdiğiniz TC numarası 11 haneli olmak zorundadır!";
 
             }
         }
         public string Name
         {
             get { return name; }
-            set {
-                if (name != null || name != "")
+            set
+            {
+                if (value != null || value != "")
                     name = value;
                 else
-                    Console.WriteLine("Girdiğiniz kullanıcı adınızı kontrol ediniz!!");
+                    tc = "Girdiğiniz kullanıcı adınızı kontrol ediniz!!";
 
             }
         }
