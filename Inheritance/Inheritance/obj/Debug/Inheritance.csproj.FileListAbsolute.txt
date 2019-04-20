@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Furkan\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Furkan\Desktop\OOP-Preparation\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
