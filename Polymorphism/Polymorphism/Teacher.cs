@@ -41,5 +41,10 @@ namespace Polymorphism
 
             }
         }
+
+        public override void yazdir()
+        {
+            Console.WriteLine("Teacher class'ı içerisindeki metod yazdırıldı.(Polymorphism)");
+        }
     }
 }
